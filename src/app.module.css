@@ -74,6 +74,10 @@
 	background: #cccccc;
 	border: none;
 	margin-bottom: 0.25rem;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
 }
 
 .steps-item.active .steps-item-button,
